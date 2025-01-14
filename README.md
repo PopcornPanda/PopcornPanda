@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm PopcornPanda 👋
 
-<!--
-**PopcornPanda/PopcornPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=PopcornPanda&color=blue)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on improving my skills in DevOps and Backend Development
+- 🌱 I’m currently learning golang and C#
+- 👯 I’m looking to collaborate on open source projects.
+- 💬 Ask me about DevOps stuff
+- 📫 How to reach me: lukasz@cllpsd.com
+- ⚡ Fun fact: Popcorn Panda is a inside meme: Panda looking at burning servers
+
+## Languages and Tools
+
+TBD
+
+## GitHub Stats
+
+![PopcornPanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PopcornPanda&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PopcornPanda&layout=compact&theme=radical)
+
+## Projects
+
+TBD
